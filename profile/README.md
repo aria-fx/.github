@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/aria-logo-horizontal.svg" alt="ARIA - Asset Registry for Intelligent Agents" width="640" />
+  <img src="./assets/aria-logo-horizontal.svg" alt="ARIA - Asset Registry for Intelligent Agents" width="80%" />
 </p>
 
 <p align="center">
