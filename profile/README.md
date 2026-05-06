@@ -17,7 +17,7 @@
 
 ---
 
-ARIA defines a practical operating model for AI assets built on three connected layers:
+ARIA defines a practical operating model for AI assets built on three foundational layers, with additional operational layers for distribution, AI FinOps, and consumption:
 
 - Metamodel: OASF entities, relationships, and lifecycle states.
 - Marketplace: GitHub + OCI patterns for publishing and composing reusable assets.
