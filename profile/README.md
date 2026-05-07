@@ -19,7 +19,7 @@
 
 ARIA defines a practical operating model for AI assets built on three foundational layers, with additional operational layers for distribution, AI FinOps, and consumption:
 
-- Metamodel: OASF entities, relationships, and lifecycle states.
+- Metamodel: [OASF](https://schema.oasf.outshift.com/) entities, relationships, and lifecycle states.
 - Marketplace: GitHub + OCI patterns for publishing and composing reusable assets.
 - Governance: Microsoft Purview integration for sensitivity, lineage, and policy enforcement.
 
@@ -36,7 +36,7 @@ Organizations are building agents faster than they can govern them. ARIA provide
 
 - Reference architecture and conference-ready documentation.
 - Infrastructure modules for GitHub marketplace and Azure governance.
-- A sample C# agent demonstrating OASF governance middleware.
+- A sample C# agent demonstrating [OASF](https://schema.oasf.outshift.com/) governance middleware.
 - An ARIA CLI prototype for search, inspect, audit, and install workflows.
 
 ## Core Repositories
@@ -52,7 +52,7 @@ Organizations are building agents faster than they can govern them. ARIA provide
 
 The ARIA mark encodes the framework model:
 
-- Hexagonal hub: canonical OASF record.
+- Hexagonal hub: canonical [OASF](https://schema.oasf.outshift.com/) record.
 - Outer ring: registry boundary.
 - Four satellite nodes: primary relationship patterns.
 - Three colored lines: metamodel, marketplace, and governance layers.
