@@ -42,6 +42,8 @@ Organizations are building agents faster than they can govern them. ARIA provide
 ## Core Repositories
 
 - [aria](https://github.com/aria-fx/aria): Architecture, docs, tutorial, Terraform, sample agent, and CLI prototype.
+- [aria-skills](https://github.com/aria-fx/aria-skills): Skills catalog, orchestrator configs, and reusable skill packages.
+- [aria-gateway](https://github.com/aria-fx/aria-gateway): API and UI gateway components for ARIA distribution and access.
 - [.github](https://github.com/aria-fx/.github): Organization profile, standards, and shared workflows.
 
 ## Brand
